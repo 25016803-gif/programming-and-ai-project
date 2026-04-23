@@ -1,1 +1,0 @@
-# programming-and-ai-project
